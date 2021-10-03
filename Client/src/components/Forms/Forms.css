@@ -1,0 +1,11 @@
+.form__main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;  
+  flex-wrap: wrap;
+  width: 100%;
+}
+.inputform{
+  margin-right: 10rem;
+  margin-top: -28rem;
+}
